@@ -1,0 +1,26 @@
+{% extends "myApp/layout.html" %} {% block body %} {% if user.is_authenticated%}
+<div class="container">
+  <form class="card p-3 rounded mt-3" method="post" action="{%  url 'create'%}">
+    {% csrf_token %}
+    <h2 class="text-center">New Post</h2>
+    <input
+      class="mb-2 p-2"
+      placeholder="Enter The Title.."
+      name="title"
+      type="text"
+    />
+    <textarea
+      placeholder="My Post..."
+      name="content"
+      cols="10"
+      rows="2"
+      class="mb-2 p-2"
+    ></textarea>
+
+    <input class="mb-2" type="hidden" name="date" />
+
+    <button class="btn btn-success" type="submit">Post</button>
+  </form>
+</div>
+
+{% endif %} {% endblock %}
