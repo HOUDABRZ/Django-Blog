@@ -1,5 +1,5 @@
 # Django-blog
-Building a Blog wubsite using Django and Bootstrap :
+Building a Blog website using Django and Bootstrap :
 ![image](https://github.com/HOUDABRZ/Django-blog/assets/110288086/63e0e819-858f-4fad-bd6c-96501b3d7535)
 Where Users can login or sign in:
 ![image](https://github.com/HOUDABRZ/Django-blog/assets/110288086/f9dfd588-8cfa-4576-8164-9116e3064f65)
