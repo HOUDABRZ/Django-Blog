@@ -4,7 +4,8 @@ Building a Blog wubsite using Django and Bootstrap :
 Where Users can login or sign in:
 ![image](https://github.com/HOUDABRZ/Django-blog/assets/110288086/f9dfd588-8cfa-4576-8164-9116e3064f65)
 
-![image](https://github.com/HOUDABRZ/Django-blog/assets/110288086/30c21793-23d6-43e5-acc5-4b5366718a46)
+![image](https://github.com/HOUDABRZ/Django-blog/assets/110288086/153fe9b7-07d8-4552-a18c-50abe44cb28f)
+
 
 Then, they will be directed to the home page:
 
